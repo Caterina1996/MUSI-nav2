@@ -177,7 +177,6 @@ ros2 service call /slam_toolbox/save_map slam_toolbox/srv/SaveMap \
 - No pre-built map needed
 - SLAM simultaneously localized and mapped
 
-**For detailed instructions:** See `Instructions_Detailed.md` - Session 4, Part 3
 
 ---
 
@@ -279,7 +278,6 @@ python3 /ros2_ws/src/waypoint_follower.py
 - May be slower initially (limited map)
 - Better for unknown environments
 
-**For detailed instructions:** See `Instructions_Detailed.md` - Session 4, Part 4
 
 ---
 
